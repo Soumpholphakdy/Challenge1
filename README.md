@@ -1,14 +1,14 @@
 # Hurricane1 Code Refactor
 
-##Standard code refactor
+## Standard code refactor
 
 Client, Horiseon, has hired us, Hurricane1, to refactor exsiting code so their webpage meets accessibility standards leading to their site being optimized for search engines.
 
-###User story
+### User story
 
 Currently Horiseon's web page doesn't meet accessibility standard and their site is not optimized for search engines.
 
-###Acceptance Criteria
+### Acceptance Criteria
 
 * It is done when I find and label semantic elements.
 
